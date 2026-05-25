@@ -35,7 +35,7 @@ const holidayData = {
     '2026-03-03': "Holi",
     '2026-03-21': "Eid-ul-Fitr",
     '2026-05-01': "May Day",
-    '2026-05-27': "Eid-ul-Zoha",
+    '2026-05-28': "Eid-ul-Zoha",
     '2026-08-15': "Independence Day",
     '2026-10-02': "Gandhi Jayanti",
     '2026-10-19': "Durga Puja (Saptami)",
