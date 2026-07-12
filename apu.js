@@ -45,7 +45,7 @@ const holidayData = {
 };
 
 const BASE_RATE = 437;
-const INCREMENTS = [{ date: "2026-01", amount: 2 }, { date: "2026-07", amount: 5 }];
+const INCREMENTS = [{ date: "2026-01", amount: 2 }, { date: "2026-07", amount: 8 }, { date: "2027-01", amount: 5 }];
 const SHEET_ENDPOINT = 'https://script.google.com/macros/s/AKfycbyDBI0px7aBjyORZJlCQ2ZnNbDwlHFKyjG4BDDEUTx7o2jSFZ9rXNfjzhPNlGUCg5eKJw/exec';
 
 let attendedDates = new Set();
